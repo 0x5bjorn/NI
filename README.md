@@ -1,2 +1,2 @@
 # NI
-Network Infrastructures course
+NI
